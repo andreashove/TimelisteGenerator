@@ -1,2 +1,2 @@
 # TimelisteGenerator
-Fills an Excel Spreadsheet with worked shifts (uses MVVM)
+Fills an Excel Spreadsheet with worked shifts. Uses library EEPlus for advanced spreadsheet functionality (epplus.codeplex.com)
